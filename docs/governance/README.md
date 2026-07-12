@@ -1,28 +1,31 @@
 # WORLD · Governance
 
-| Field | Value |
-|---|---|
-| Document ID | WORLD-DOCS-GOV |
-| Title | Governance Documentation |
-| Version | 0.1.0 |
-| Status | Draft |
-| Owner | Mahesh Choudhary (Founder) |
-| Author | Lead Software Engineer |
-| Last Updated | 2026-07-12 |
-
 ## Purpose
-Hold governance artifacts: decision records, policies, ownership, and standards.
+Define the rules, standards, and policies that govern all documentation and engineering across Project WORLD.
 
 ## Scope
-Project-level governance and decision-making documentation.
+Documentation standards, naming and versioning policies, shared terminology, decision records, and the master document template. Excludes domain content (business, architecture, etc.).
 
-## Contents
-_No documents yet. This directory is part of the initial scaffold._
+## Folder Responsibilities
+- Own the documentation standards every document must follow.
+- Maintain naming conventions and versioning policy.
+- Maintain the glossary and abbreviations.
+- Provide and maintain the master document template.
 
-## References
+## Expected Future Documents
+- `document-standards.md`
+- `naming-convention.md`
+- `versioning-policy.md`
+- `glossary.md`
+- `abbreviations.md`
+- `document-template.md`
+- Decision records (ADRs) — future
+
+## Related Sections
+- [Engineering](/docs/engineering/README.md)
+- [Architecture](/docs/architecture/README.md)
+
+## Navigation
 - [Documentation Hub](/docs/README.md)
-
-## Change Log
-| Version | Date | Author | Change |
-|---|---|---|---|
-| 0.1.0 | 2026-07-12 | Lead Software Engineer | Initial scaffold. |
+- [Section Index](/docs/governance/index.md)
+- [Repository Root](/README.md)

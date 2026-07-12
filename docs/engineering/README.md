@@ -1,29 +1,26 @@
 # WORLD · Engineering
 
-| Field | Value |
-|---|---|
-| Document ID | WORLD-DOCS-ENG |
-| Title | Engineering Documentation |
-| Version | 0.1.0 |
-| Status | Draft |
-| Owner | Mahesh Choudhary (Founder) |
-| Author | Lead Software Engineer |
-| Last Updated | 2026-07-12 |
-
 ## Purpose
-Define engineering standards, coding guidelines, workflows, and best practices.
+Define engineering standards, workflows, and practices for building WORLD.
 
 ## Scope
-Engineering process and standards documentation.
+Engineering process, coding standards, and quality practices. Excludes architecture decisions and business content.
 
-## Contents
-_No documents yet. This directory is part of the initial scaffold._
+## Folder Responsibilities
+- Maintain coding standards.
+- Define branching and pull-request workflow.
+- Define the testing strategy.
 
-## References
+## Expected Future Documents
+- `coding-standards.md`
+- `branching-strategy.md`
+- `testing-strategy.md`
+
+## Related Sections
+- [Governance](/docs/governance/README.md)
+- [Architecture](/docs/architecture/README.md)
+
+## Navigation
 - [Documentation Hub](/docs/README.md)
-- [CONTRIBUTING.md](/CONTRIBUTING.md)
-
-## Change Log
-| Version | Date | Author | Change |
-|---|---|---|---|
-| 0.1.0 | 2026-07-12 | Lead Software Engineer | Initial scaffold. |
+- [Section Index](/docs/engineering/index.md)
+- [Repository Root](/README.md)

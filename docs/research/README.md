@@ -1,28 +1,26 @@
 # WORLD · Research
 
-| Field | Value |
-|---|---|
-| Document ID | WORLD-DOCS-RESEARCH |
-| Title | Research Documentation |
-| Version | 0.1.0 |
-| Status | Draft |
-| Owner | Mahesh Choudhary (Founder) |
-| Author | Lead Software Engineer |
-| Last Updated | 2026-07-12 |
-
 ## Purpose
-Capture research notes, experiments, references, and exploratory findings.
+Capture research notes, experiments, and references that inform WORLD.
 
 ## Scope
-Research and experimentation documentation.
+Research and experimentation documentation. Excludes finalized specifications.
 
-## Contents
-_No documents yet. This directory is part of the initial scaffold._
+## Folder Responsibilities
+- Maintain a research index.
+- Document experiments and findings.
+- Maintain external references.
 
-## References
+## Expected Future Documents
+- `research-index.md`
+- `experiments.md`
+- `references.md`
+
+## Related Sections
+- [AI](/docs/ai/README.md)
+- [Architecture](/docs/architecture/README.md)
+
+## Navigation
 - [Documentation Hub](/docs/README.md)
-
-## Change Log
-| Version | Date | Author | Change |
-|---|---|---|---|
-| 0.1.0 | 2026-07-12 | Lead Software Engineer | Initial scaffold. |
+- [Section Index](/docs/research/index.md)
+- [Repository Root](/README.md)

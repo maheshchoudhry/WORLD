@@ -1,28 +1,27 @@
 # WORLD · Business
 
-| Field | Value |
-|---|---|
-| Document ID | WORLD-DOCS-BIZ |
-| Title | Business Documentation |
-| Version | 0.1.0 |
-| Status | Draft |
-| Owner | Mahesh Choudhary (Founder) |
-| Author | Lead Software Engineer |
-| Last Updated | 2026-07-12 |
-
 ## Purpose
-Capture vision, business model, market context, and product definition for WORLD as an AI Business Partner.
+Capture the vision, business model, and product definition of WORLD as an AI Business Partner.
 
 ## Scope
-Business strategy and product definition documentation.
+Business strategy, market context, and product definition. Excludes implementation and architecture.
 
-## Contents
-_No documents yet. This directory is part of the initial scaffold._
+## Folder Responsibilities
+- Maintain the product vision and value proposition.
+- Document the business model and market context.
+- Define the product at a business level.
 
-## References
+## Expected Future Documents
+- `vision.md`
+- `business-model.md`
+- `market-analysis.md`
+- `product-definition.md`
+
+## Related Sections
+- [Roadmap](/docs/roadmap/README.md)
+- [AI](/docs/ai/README.md)
+
+## Navigation
 - [Documentation Hub](/docs/README.md)
-
-## Change Log
-| Version | Date | Author | Change |
-|---|---|---|---|
-| 0.1.0 | 2026-07-12 | Lead Software Engineer | Initial scaffold. |
+- [Section Index](/docs/business/index.md)
+- [Repository Root](/README.md)

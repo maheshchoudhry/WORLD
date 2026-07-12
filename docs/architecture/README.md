@@ -1,28 +1,28 @@
 # WORLD · Architecture
 
-| Field | Value |
-|---|---|
-| Document ID | WORLD-DOCS-ARCH |
-| Title | Architecture Documentation |
-| Version | 0.1.0 |
-| Status | Draft |
-| Owner | Mahesh Choudhary (Founder) |
-| Author | Lead Software Engineer |
-| Last Updated | 2026-07-12 |
-
 ## Purpose
 Document system architecture, architecture decision records (ADRs), and diagrams.
 
 ## Scope
-System-wide architecture documentation.
+System-wide architecture and design decisions. Excludes business content and implementation code.
 
-## Contents
-_No documents yet. This directory is part of the initial scaffold._
+## Folder Responsibilities
+- Maintain the system overview and component model.
+- Record architecture decisions (ADRs).
+- Maintain architecture diagrams.
 
-## References
+## Expected Future Documents
+- `system-overview.md`
+- `adr-index.md`
+- `diagrams.md`
+
+## Related Sections
+- [Engineering](/docs/engineering/README.md)
+- [Database](/docs/database/README.md)
+- [API](/docs/api/README.md)
+- [Security](/docs/security/README.md)
+
+## Navigation
 - [Documentation Hub](/docs/README.md)
-
-## Change Log
-| Version | Date | Author | Change |
-|---|---|---|---|
-| 0.1.0 | 2026-07-12 | Lead Software Engineer | Initial scaffold. |
+- [Section Index](/docs/architecture/index.md)
+- [Repository Root](/README.md)

@@ -1,28 +1,26 @@
 # WORLD · UI/UX
 
-| Field | Value |
-|---|---|
-| Document ID | WORLD-DOCS-UX |
-| Title | UI/UX Documentation |
-| Version | 0.1.0 |
-| Status | Draft |
-| Owner | Mahesh Choudhary (Founder) |
-| Author | Lead Software Engineer |
-| Last Updated | 2026-07-12 |
-
 ## Purpose
-Document UI/UX design specifications, user flows, and design system references.
+Document the design system, user flows, and accessibility standards.
 
 ## Scope
-Design and experience documentation.
+Design and experience documentation. Excludes frontend implementation code.
 
-## Contents
-_No documents yet. This directory is part of the initial scaffold._
+## Folder Responsibilities
+- Maintain the design system.
+- Document user flows.
+- Define accessibility standards.
 
-## References
+## Expected Future Documents
+- `design-system.md`
+- `user-flows.md`
+- `accessibility.md`
+
+## Related Sections
+- [Business](/docs/business/README.md)
+- [AI](/docs/ai/README.md)
+
+## Navigation
 - [Documentation Hub](/docs/README.md)
-
-## Change Log
-| Version | Date | Author | Change |
-|---|---|---|---|
-| 0.1.0 | 2026-07-12 | Lead Software Engineer | Initial scaffold. |
+- [Section Index](/docs/ui-ux/index.md)
+- [Repository Root](/README.md)

@@ -1,28 +1,26 @@
 # WORLD · API
 
-| Field | Value |
-|---|---|
-| Document ID | WORLD-DOCS-API |
-| Title | API Documentation |
-| Version | 0.1.0 |
-| Status | Draft |
-| Owner | Mahesh Choudhary (Founder) |
-| Author | Lead Software Engineer |
-| Last Updated | 2026-07-12 |
-
 ## Purpose
-Document API specifications, contracts, and integration guidelines.
+Document API specifications, contracts, and conventions.
 
 ## Scope
-API design and contract documentation.
+API design, contracts, and conventions. Excludes implementation code.
 
-## Contents
-_No documents yet. This directory is part of the initial scaffold._
+## Folder Responsibilities
+- Maintain the API overview.
+- Define API conventions (REST/GraphQL).
+- Maintain contract references.
 
-## References
+## Expected Future Documents
+- `api-overview.md`
+- `rest-conventions.md`
+- `contract-index.md`
+
+## Related Sections
+- [Architecture](/docs/architecture/README.md)
+- [Database](/docs/database/README.md)
+
+## Navigation
 - [Documentation Hub](/docs/README.md)
-
-## Change Log
-| Version | Date | Author | Change |
-|---|---|---|---|
-| 0.1.0 | 2026-07-12 | Lead Software Engineer | Initial scaffold. |
+- [Section Index](/docs/api/index.md)
+- [Repository Root](/README.md)
