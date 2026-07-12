@@ -15,6 +15,7 @@ The [Master Blueprint](/docs/blueprint/README.md) is the frozen 26-volume specif
 - [Volume 01 - Vision & Philosophy](/docs/blueprint/volume-01-vision-and-philosophy/README.md) - Completed
 - [Volume 02 - Business Foundation](/docs/blueprint/volume-02-business-foundation/README.md) - Completed
 - [Volume 03 - AI Business Partner](/docs/blueprint/volume-03-ai-business-partner/README.md) - Completed
+- [Volume 04 - Business Intelligence & Decision Science](/docs/blueprint/volume-04-business-intelligence-and-decision-science/README.md) - Completed
 
 ## Sections
 | Section | Overview | Index |

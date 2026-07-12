@@ -5,7 +5,7 @@
 | WORLD-VOL01 | Vision & Philosophy | A - Foundation | 1.0 | Completed | 2026-07-12 |
 | WORLD-VOL02 | Business Foundation | A - Foundation | 1.0 | Completed | 2026-07-12 |
 | WORLD-VOL03 | AI Business Partner | A - Foundation | 1.0 | Completed | 2026-07-12 |
-| WORLD-VOL04 | Business Intelligence & Decision Science | A - Foundation | - | Planned | 2026-07-12 |
+| WORLD-VOL04 | Business Intelligence & Decision Science | A - Foundation | 1.0 | Completed | 2026-07-12 |
 | WORLD-VOL05 | ERP Foundation | B - Product | - | Planned | 2026-07-12 |
 | WORLD-VOL06 | Business Modules | B - Product | - | Planned | 2026-07-12 |
 | WORLD-VOL07 | Industry Solutions | B - Product | - | Planned | 2026-07-12 |
