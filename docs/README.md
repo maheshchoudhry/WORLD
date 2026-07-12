@@ -4,17 +4,20 @@
 Central entry point for all Project WORLD documentation. The documentation framework is the source of truth for governance, product, architecture, and engineering knowledge, and is designed to scale to thousands of documents.
 
 ## Scope
-All documentation sections listed below. Application and system code live outside `docs/`.
+All documentation sections and the Master Blueprint listed below. Application and system code live outside `docs/`.
 
 ## Folder Responsibilities
-Provide a consistent, navigable structure where each section owns its domain documentation. Every section exposes a `README.md` (overview) and an `index.md` (document index table).
+Provide a consistent, navigable structure where each section owns its domain documentation. Every section exposes a `README.md` (overview) and an `index.md` (document index table). The Master Blueprint holds the versioned volumes that define the project.
 
-## Expected Future Documents
-Section-level documents authored from the [document template](/docs/governance/document-template.md), tracked in each section's `index.md`.
+## Master Blueprint
+The [Master Blueprint](/docs/blueprint/README.md) is the frozen 26-volume specification of Project WORLD, built one volume at a time.
+
+- [Volume 01 - Vision & Philosophy](/docs/blueprint/volume-01-vision-and-philosophy/README.md) - Completed
 
 ## Sections
 | Section | Overview | Index |
 |---|---|---|
+| Blueprint | [README](/docs/blueprint/README.md) | [index](/docs/blueprint/index.md) |
 | Governance | [README](/docs/governance/README.md) | [index](/docs/governance/index.md) |
 | Business | [README](/docs/business/README.md) | [index](/docs/business/index.md) |
 | AI | [README](/docs/ai/README.md) | [index](/docs/ai/index.md) |

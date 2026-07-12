@@ -7,10 +7,16 @@
 ## Repository Purpose
 This repository is the **single source of truth** for Project WORLD. All knowledge — governance, architecture, specifications, and implementation — lives here and is documented. Documentation precedes implementation.
 
+## Master Blueprint
+Development follows the frozen [Master Blueprint](/docs/blueprint/README.md): 26 volumes across five parts, built one volume at a time in approved order.
+
+- [Volume 01 - Vision & Philosophy](/docs/blueprint/volume-01-vision-and-philosophy/README.md) — Completed
+
 ## Repository Structure
 ```
 WORLD/
 ├── docs/              # Documentation framework (source of truth)
+│   ├── blueprint/     # Master Blueprint volumes
 │   ├── governance/    # Standards, policies, glossary, templates
 │   ├── business/      # Vision, business model, product definition
 │   ├── ai/            # AI product & behavior specifications
@@ -47,6 +53,7 @@ Every document is authored from the master [document template](/docs/governance/
 ## Folder Navigation
 | Section | Path |
 |---|---|
+| Master Blueprint | [`docs/blueprint/`](/docs/blueprint/README.md) |
 | Documentation Hub | [`docs/`](/docs/README.md) |
 | Governance | [`docs/governance/`](/docs/governance/README.md) |
 | Business | [`docs/business/`](/docs/business/README.md) |
