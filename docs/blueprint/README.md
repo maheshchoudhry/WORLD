@@ -54,8 +54,9 @@ Houses every blueprint volume and the blueprint-level index and navigation. Volu
 - [Volume 02 - Business Foundation](/docs/blueprint/volume-02-business-foundation/README.md) - Completed
 - [Volume 03 - AI Business Partner](/docs/blueprint/volume-03-ai-business-partner/README.md) - Completed
 - [Volume 04 - Business Intelligence & Decision Science](/docs/blueprint/volume-04-business-intelligence-and-decision-science/README.md) - Completed
+- [Volume 05 - ERP Foundation](/docs/blueprint/volume-05-erp-foundation/README.md) - Completed
 
-_Part A - Foundation is complete._
+_Part A - Foundation is complete. Part B - Product is in progress._
 
 ## Related Documents
 - [Blueprint Index](/docs/blueprint/index.md)
@@ -68,6 +69,7 @@ _Part A - Foundation is complete._
 ## Change Log
 | Version | Date | Author | Change |
 |---|---|---|---|
+| 1.4 | 2026-07-12 | Lead Software Engineer | Volume 05 marked completed. |
 | 1.3 | 2026-07-12 | Lead Software Engineer | Volume 04 marked completed; Part A complete. |
 | 1.2 | 2026-07-12 | Lead Software Engineer | Volume 03 marked completed. |
 | 1.1 | 2026-07-12 | Lead Software Engineer | Volume 02 marked completed. |

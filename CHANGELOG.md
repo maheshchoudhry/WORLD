@@ -4,7 +4,7 @@
 |---|---|
 | Document ID | WORLD-CHANGELOG |
 | Title | Project WORLD — Change Log |
-| Version | 0.4.0 |
+| Version | 0.5.0 |
 | Status | Draft |
 | Owner | Mahesh Choudhary (Founder) |
 | Author | Lead Software Engineer |
@@ -18,17 +18,28 @@ Repository-wide. Follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 
 ---
 
+## [0.5.0] - 2026-07-12
+
+Volume 05 - ERP Foundation completed. Part B - Product begins.
+
+### Added
+- Volume 05 - ERP Foundation: 66 chapters across eight sections (A ERP Foundation, B Core Architecture, C ERP Framework, D Process Foundation, E AI Integration, F Data Foundation, G Enterprise Capabilities, H ERP Governance) plus 8 appendices (ERP glossary, ERP terminology, ERP design standards, enterprise data standards, workflow templates, approval templates, integration templates, references).
+- Volume 05 `README.md` and document registry `index.md`.
+
+### Changed
+- Blueprint `README.md` and `index.md` updated to mark Volume 05 completed.
+- `docs/README.md` and `docs/index.md` updated to register Volume 05.
+
 ## [0.4.0] - 2026-07-12
 
 Volume 04 - Business Intelligence & Decision Science completed. Part A - Foundation complete.
 
 ### Added
-- Volume 04 - Business Intelligence & Decision Science: 66 chapters across eight sections (A Intelligence Foundation, B Business Analysis, C Problem Solving, D Strategic Intelligence, E Planning & Forecasting, F Decision Frameworks, G Performance Intelligence, H Enterprise Intelligence) plus 8 appendices (decision framework templates, BI glossary, analytical models, executive review templates, root cause templates, strategic planning templates, business scorecards, references).
+- Volume 04 - Business Intelligence & Decision Science: 66 chapters across eight sections plus 8 appendices.
 - Volume 04 `README.md` and document registry `index.md`.
 
 ### Changed
-- Blueprint `README.md` and `index.md` updated to mark Volume 04 completed and Part A complete.
-- `docs/README.md` and `docs/index.md` updated to register Volume 04.
+- Blueprint and docs indexes updated to mark Volume 04 completed and Part A complete.
 
 ## [0.3.0] - 2026-07-12
 
@@ -77,6 +88,7 @@ Initial documentation framework created.
 ## Change Log (Document)
 | Version | Date | Author | Change |
 |---|---|---|---|
+| 0.5.0 | 2026-07-12 | Lead Software Engineer | Recorded Volume 05 completion; Part B begins. |
 | 0.4.0 | 2026-07-12 | Lead Software Engineer | Recorded Volume 04 completion; Part A complete. |
 | 0.3.0 | 2026-07-12 | Lead Software Engineer | Recorded Volume 03 completion. |
 | 0.2.0 | 2026-07-12 | Lead Software Engineer | Recorded Volume 02 completion. |
