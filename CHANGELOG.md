@@ -4,7 +4,7 @@
 |---|---|
 | Document ID | WORLD-CHANGELOG |
 | Title | Project WORLD — Change Log |
-| Version | 0.2.0 |
+| Version | 0.3.0 |
 | Status | Draft |
 | Owner | Mahesh Choudhary (Founder) |
 | Author | Lead Software Engineer |
@@ -18,17 +18,28 @@ Repository-wide. Follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 
 ---
 
+## [0.3.0] - 2026-07-12
+
+Volume 03 - AI Business Partner completed.
+
+### Added
+- Volume 03 - AI Business Partner: 62 chapters across eight sections (A AI Foundation, B AI Personality, C AI Cognition, D Business Understanding, E Interaction Model, F AI Services, G Safety & Governance, H Future Evolution) plus 7 appendices (AI glossary, AI terminology, design patterns, interaction templates, decision templates, review checklist, references).
+- Volume 03 `README.md` and document registry `index.md`.
+
+### Changed
+- Blueprint `README.md` and `index.md` updated to mark Volume 03 completed.
+- `docs/README.md` and `docs/index.md` updated to register Volume 03.
+
 ## [0.2.0] - 2026-07-12
 
 Volume 02 - Business Foundation completed.
 
 ### Added
-- Volume 02 - Business Foundation: 62 chapters across eight sections (A Business Fundamentals, B Business Structure, C Business Operations, D Business Intelligence, E Decision Science, F Business Management, G Data & Knowledge, H Future Ready Business) plus 8 appendices (glossary, acronyms, templates, checklists, assessment framework, audit framework, scorecards, references).
+- Volume 02 - Business Foundation: 62 chapters across eight sections plus 8 appendices.
 - Volume 02 `README.md` and document registry `index.md`.
 
 ### Changed
-- Blueprint `README.md` and `index.md` updated to mark Volume 02 completed.
-- `docs/README.md` and `docs/index.md` updated to register Volume 02.
+- Blueprint and docs indexes updated to mark Volume 02 completed.
 
 ## [0.1.0] - 2026-07-12
 
@@ -55,6 +66,7 @@ Initial documentation framework created.
 ## Change Log (Document)
 | Version | Date | Author | Change |
 |---|---|---|---|
+| 0.3.0 | 2026-07-12 | Lead Software Engineer | Recorded Volume 03 completion. |
 | 0.2.0 | 2026-07-12 | Lead Software Engineer | Recorded Volume 02 completion. |
 | 0.1.0 | 2026-07-12 | Lead Software Engineer | Recorded Volume 01 completion. |
 | 0.0.1 | 2026-07-12 | Lead Software Engineer | Initial documentation framework recorded. |
