@@ -51,6 +51,7 @@ Houses every blueprint volume and the blueprint-level index and navigation. Volu
 
 ## Volumes
 - [Volume 01 - Vision & Philosophy](/docs/blueprint/volume-01-vision-and-philosophy/README.md) - Completed
+- [Volume 02 - Business Foundation](/docs/blueprint/volume-02-business-foundation/README.md) - Completed
 
 ## Related Documents
 - [Blueprint Index](/docs/blueprint/index.md)
@@ -63,4 +64,5 @@ Houses every blueprint volume and the blueprint-level index and navigation. Volu
 ## Change Log
 | Version | Date | Author | Change |
 |---|---|---|---|
+| 1.1 | 2026-07-12 | Lead Software Engineer | Volume 02 marked completed. |
 | 1.0 | 2026-07-12 | Lead Software Engineer | Blueprint home created; Volume 01 registered. |

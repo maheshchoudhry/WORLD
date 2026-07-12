@@ -13,6 +13,7 @@ Provide a consistent, navigable structure where each section owns its domain doc
 The [Master Blueprint](/docs/blueprint/README.md) is the frozen 26-volume specification of Project WORLD, built one volume at a time.
 
 - [Volume 01 - Vision & Philosophy](/docs/blueprint/volume-01-vision-and-philosophy/README.md) - Completed
+- [Volume 02 - Business Foundation](/docs/blueprint/volume-02-business-foundation/README.md) - Completed
 
 ## Sections
 | Section | Overview | Index |

@@ -11,6 +11,7 @@ This repository is the **single source of truth** for Project WORLD. All knowled
 Development follows the frozen [Master Blueprint](/docs/blueprint/README.md): 26 volumes across five parts, built one volume at a time in approved order.
 
 - [Volume 01 - Vision & Philosophy](/docs/blueprint/volume-01-vision-and-philosophy/README.md) — Completed
+- [Volume 02 - Business Foundation](/docs/blueprint/volume-02-business-foundation/README.md) — Completed
 
 ## Repository Structure
 ```
