@@ -17,6 +17,9 @@ The [Master Blueprint](/docs/blueprint/README.md) is the frozen 26-volume specif
 - [Volume 03 - AI Business Partner](/docs/blueprint/volume-03-ai-business-partner/README.md) - Completed
 - [Volume 04 - Business Intelligence & Decision Science](/docs/blueprint/volume-04-business-intelligence-and-decision-science/README.md) - Completed
 - [Volume 05 - ERP Foundation](/docs/blueprint/volume-05-erp-foundation/README.md) - Completed
+- [Volume 06 - Business Modules](/docs/blueprint/volume-06-business-modules/README.md) - Completed
+- [Volume 07 - Industry Solutions](/docs/blueprint/volume-07-industry-solutions/README.md) - Completed
+- [Volume 08 - Architecture](/docs/blueprint/volume-08-architecture/README.md) - Completed
 
 ## Sections
 | Section | Overview | Index |

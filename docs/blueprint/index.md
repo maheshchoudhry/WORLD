@@ -7,9 +7,9 @@
 | WORLD-VOL03 | AI Business Partner | A - Foundation | 1.0 | Completed | 2026-07-12 |
 | WORLD-VOL04 | Business Intelligence & Decision Science | A - Foundation | 1.0 | Completed | 2026-07-12 |
 | WORLD-VOL05 | ERP Foundation | B - Product | 1.0 | Completed | 2026-07-12 |
-| WORLD-VOL06 | Business Modules | B - Product | - | Planned | 2026-07-12 |
-| WORLD-VOL07 | Industry Solutions | B - Product | - | Planned | 2026-07-12 |
-| WORLD-VOL08 | Architecture | C - Technology | - | Planned | 2026-07-12 |
+| WORLD-VOL06 | Business Modules | B - Product | 1.0 | Completed | 2026-07-12 |
+| WORLD-VOL07 | Industry Solutions | B - Product | 1.0 | Completed | 2026-07-12 |
+| WORLD-VOL08 | Architecture | C - Technology | 1.0 | Completed | 2026-07-12 |
 | WORLD-VOL09 | Database | C - Technology | - | Planned | 2026-07-12 |
 | WORLD-VOL10 | API | C - Technology | - | Planned | 2026-07-12 |
 | WORLD-VOL11 | Infrastructure | C - Technology | - | Planned | 2026-07-12 |

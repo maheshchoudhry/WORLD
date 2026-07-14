@@ -7,7 +7,7 @@ The Master Blueprint is the frozen, authoritative specification of Project WORLD
 Houses every blueprint volume and the blueprint-level index and navigation. Volume content defines identity, product, technology, engineering, and product management for WORLD.
 
 ## Execution Rules
-- Build only one volume at a time.
+- Build only one volume at a time (or an approved batch).
 - Do not begin a new volume until instructed by the Founder.
 - Complete the current volume before stopping.
 - The blueprint order is frozen and must not be changed.
@@ -55,8 +55,11 @@ Houses every blueprint volume and the blueprint-level index and navigation. Volu
 - [Volume 03 - AI Business Partner](/docs/blueprint/volume-03-ai-business-partner/README.md) - Completed
 - [Volume 04 - Business Intelligence & Decision Science](/docs/blueprint/volume-04-business-intelligence-and-decision-science/README.md) - Completed
 - [Volume 05 - ERP Foundation](/docs/blueprint/volume-05-erp-foundation/README.md) - Completed
+- [Volume 06 - Business Modules](/docs/blueprint/volume-06-business-modules/README.md) - Completed
+- [Volume 07 - Industry Solutions](/docs/blueprint/volume-07-industry-solutions/README.md) - Completed
+- [Volume 08 - Architecture](/docs/blueprint/volume-08-architecture/README.md) - Completed
 
-_Part A - Foundation is complete. Part B - Product is in progress._
+_Part A - Foundation and Part B - Product are complete. Part C - Technology is in progress (Volume 08 complete)._
 
 ## Related Documents
 - [Blueprint Index](/docs/blueprint/index.md)
@@ -69,6 +72,7 @@ _Part A - Foundation is complete. Part B - Product is in progress._
 ## Change Log
 | Version | Date | Author | Change |
 |---|---|---|---|
+| 1.5 | 2026-07-12 | Lead Software Engineer | Volumes 06-08 marked completed; Part B complete, Part C started. |
 | 1.4 | 2026-07-12 | Lead Software Engineer | Volume 05 marked completed. |
 | 1.3 | 2026-07-12 | Lead Software Engineer | Volume 04 marked completed; Part A complete. |
 | 1.2 | 2026-07-12 | Lead Software Engineer | Volume 03 marked completed. |

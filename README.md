@@ -8,15 +8,18 @@
 This repository is the **single source of truth** for Project WORLD. All knowledge — governance, architecture, specifications, and implementation — lives here and is documented. Documentation precedes implementation.
 
 ## Master Blueprint
-Development follows the frozen [Master Blueprint](/docs/blueprint/README.md): 26 volumes across five parts, built one volume at a time in approved order.
+Development follows the frozen [Master Blueprint](/docs/blueprint/README.md): 26 volumes across five parts, built in approved order.
 
 - [Volume 01 - Vision & Philosophy](/docs/blueprint/volume-01-vision-and-philosophy/README.md) — Completed
 - [Volume 02 - Business Foundation](/docs/blueprint/volume-02-business-foundation/README.md) — Completed
 - [Volume 03 - AI Business Partner](/docs/blueprint/volume-03-ai-business-partner/README.md) — Completed
 - [Volume 04 - Business Intelligence & Decision Science](/docs/blueprint/volume-04-business-intelligence-and-decision-science/README.md) — Completed
 - [Volume 05 - ERP Foundation](/docs/blueprint/volume-05-erp-foundation/README.md) — Completed
+- [Volume 06 - Business Modules](/docs/blueprint/volume-06-business-modules/README.md) — Completed
+- [Volume 07 - Industry Solutions](/docs/blueprint/volume-07-industry-solutions/README.md) — Completed
+- [Volume 08 - Architecture](/docs/blueprint/volume-08-architecture/README.md) — Completed
 
-_Part A - Foundation is complete. Part B - Product is in progress._
+_Part A - Foundation and Part B - Product complete. Part C - Technology in progress._
 
 ## Repository Structure
 ```
@@ -49,12 +52,7 @@ WORLD/
 ```
 
 ## Documentation Overview
-All documentation lives under [`docs/`](/docs/README.md) and follows a consistent, scalable framework designed to support thousands of future documents. Every section contains:
-
-- **`README.md`** — purpose, scope, responsibilities, expected documents, and navigation.
-- **`index.md`** — a document index table (Document ID, Title, Version, Status, Last Updated).
-
-Every document is authored from the master [document template](/docs/governance/document-template.md) and conforms to the standards defined in [governance](/docs/governance/README.md).
+All documentation lives under [`docs/`](/docs/README.md) and follows a consistent, scalable framework. Every section contains a `README.md` (overview) and an `index.md` (document index table). Every document is authored from the master [document template](/docs/governance/document-template.md) and conforms to the standards defined in [governance](/docs/governance/README.md).
 
 ## Folder Navigation
 | Section | Path |
