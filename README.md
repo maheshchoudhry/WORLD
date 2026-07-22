@@ -18,8 +18,11 @@ Development follows the frozen [Master Blueprint](/docs/blueprint/README.md): 26
 - [Volume 06 - Business Modules](/docs/blueprint/volume-06-business-modules/README.md) — Completed
 - [Volume 07 - Industry Solutions](/docs/blueprint/volume-07-industry-solutions/README.md) — Completed
 - [Volume 08 - Architecture](/docs/blueprint/volume-08-architecture/README.md) — Completed
+- [Volume 09 - Database](/docs/blueprint/volume-09-database/README.md) — Completed
+- [Volume 10 - API](/docs/blueprint/volume-10-api/README.md) — Completed
+- [Volume 11 - Infrastructure](/docs/blueprint/volume-11-infrastructure/README.md) — Completed
 
-_Part A - Foundation and Part B - Product complete. Part C - Technology in progress._
+_Parts A and B complete. Part C - Technology in progress (Volumes 08-11 complete)._
 
 ## Repository Structure
 ```

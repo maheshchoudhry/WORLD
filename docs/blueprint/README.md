@@ -1,7 +1,7 @@
 # Project WORLD - Master Blueprint
 
 ## Purpose
-The Master Blueprint is the frozen, authoritative specification of Project WORLD. It is organized into 26 volumes across five parts and is executed one volume at a time, in the approved order. This directory is the home of all blueprint volumes.
+The Master Blueprint is the frozen, authoritative specification of Project WORLD. It is organized into 26 volumes across five parts and is executed one volume at a time, in the approved order (or an approved batch). This directory is the home of all blueprint volumes.
 
 ## Scope
 Houses every blueprint volume and the blueprint-level index and navigation. Volume content defines identity, product, technology, engineering, and product management for WORLD.
@@ -58,8 +58,11 @@ Houses every blueprint volume and the blueprint-level index and navigation. Volu
 - [Volume 06 - Business Modules](/docs/blueprint/volume-06-business-modules/README.md) - Completed
 - [Volume 07 - Industry Solutions](/docs/blueprint/volume-07-industry-solutions/README.md) - Completed
 - [Volume 08 - Architecture](/docs/blueprint/volume-08-architecture/README.md) - Completed
+- [Volume 09 - Database](/docs/blueprint/volume-09-database/README.md) - Completed
+- [Volume 10 - API](/docs/blueprint/volume-10-api/README.md) - Completed
+- [Volume 11 - Infrastructure](/docs/blueprint/volume-11-infrastructure/README.md) - Completed
 
-_Part A - Foundation and Part B - Product are complete. Part C - Technology is in progress (Volume 08 complete)._
+_Parts A and B are complete. Part C - Technology is in progress (Volumes 08-11 complete; 12-16 planned)._
 
 ## Related Documents
 - [Blueprint Index](/docs/blueprint/index.md)
@@ -72,6 +75,7 @@ _Part A - Foundation and Part B - Product are complete. Part C - Technology is i
 ## Change Log
 | Version | Date | Author | Change |
 |---|---|---|---|
+| 1.6 | 2026-07-12 | Lead Software Engineer | Volumes 09-11 marked completed (Batch-02). |
 | 1.5 | 2026-07-12 | Lead Software Engineer | Volumes 06-08 marked completed; Part B complete, Part C started. |
 | 1.4 | 2026-07-12 | Lead Software Engineer | Volume 05 marked completed. |
 | 1.3 | 2026-07-12 | Lead Software Engineer | Volume 04 marked completed; Part A complete. |
