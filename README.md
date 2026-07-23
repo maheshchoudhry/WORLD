@@ -21,8 +21,11 @@ Development follows the frozen [Master Blueprint](/docs/blueprint/README.md): 26
 - [Volume 09 - Database](/docs/blueprint/volume-09-database/README.md) — Completed
 - [Volume 10 - API](/docs/blueprint/volume-10-api/README.md) — Completed
 - [Volume 11 - Infrastructure](/docs/blueprint/volume-11-infrastructure/README.md) — Completed
+- [Volume 12 - Security](/docs/blueprint/volume-12-security/README.md) — Completed
+- [Volume 13 - AI Agents](/docs/blueprint/volume-13-ai-agents/README.md) — Completed
+- [Volume 14 - Knowledge Engine](/docs/blueprint/volume-14-knowledge-engine/README.md) — Completed
 
-_Parts A and B complete. Part C - Technology in progress (Volumes 08-11 complete)._
+_Parts A and B complete. Part C - Technology in progress (Volumes 08-14 complete)._
 
 ## Repository Structure
 ```

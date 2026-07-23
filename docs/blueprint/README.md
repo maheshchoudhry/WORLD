@@ -61,8 +61,11 @@ Houses every blueprint volume and the blueprint-level index and navigation. Volu
 - [Volume 09 - Database](/docs/blueprint/volume-09-database/README.md) - Completed
 - [Volume 10 - API](/docs/blueprint/volume-10-api/README.md) - Completed
 - [Volume 11 - Infrastructure](/docs/blueprint/volume-11-infrastructure/README.md) - Completed
+- [Volume 12 - Security](/docs/blueprint/volume-12-security/README.md) - Completed
+- [Volume 13 - AI Agents](/docs/blueprint/volume-13-ai-agents/README.md) - Completed
+- [Volume 14 - Knowledge Engine](/docs/blueprint/volume-14-knowledge-engine/README.md) - Completed
 
-_Parts A and B are complete. Part C - Technology is in progress (Volumes 08-11 complete; 12-16 planned)._
+_Parts A and B are complete. Part C - Technology is in progress (Volumes 08-14 complete; 15-16 planned)._
 
 ## Related Documents
 - [Blueprint Index](/docs/blueprint/index.md)
@@ -75,6 +78,7 @@ _Parts A and B are complete. Part C - Technology is in progress (Volumes 08-11 c
 ## Change Log
 | Version | Date | Author | Change |
 |---|---|---|---|
+| 1.7 | 2026-07-12 | Lead Software Engineer | Volumes 12-14 marked completed (Batch-03). |
 | 1.6 | 2026-07-12 | Lead Software Engineer | Volumes 09-11 marked completed (Batch-02). |
 | 1.5 | 2026-07-12 | Lead Software Engineer | Volumes 06-08 marked completed; Part B complete, Part C started. |
 | 1.4 | 2026-07-12 | Lead Software Engineer | Volume 05 marked completed. |

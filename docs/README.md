@@ -23,6 +23,9 @@ The [Master Blueprint](/docs/blueprint/README.md) is the frozen 26-volume specif
 - [Volume 09 - Database](/docs/blueprint/volume-09-database/README.md) - Completed
 - [Volume 10 - API](/docs/blueprint/volume-10-api/README.md) - Completed
 - [Volume 11 - Infrastructure](/docs/blueprint/volume-11-infrastructure/README.md) - Completed
+- [Volume 12 - Security](/docs/blueprint/volume-12-security/README.md) - Completed
+- [Volume 13 - AI Agents](/docs/blueprint/volume-13-ai-agents/README.md) - Completed
+- [Volume 14 - Knowledge Engine](/docs/blueprint/volume-14-knowledge-engine/README.md) - Completed
 
 ## Sections
 | Section | Overview | Index |
